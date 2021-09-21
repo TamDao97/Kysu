@@ -1,0 +1,12 @@
+D:\Coderkechuyen\Kysu.Database\bin\Debug\netcoreapp3.1\Kysu.Database.deps.json
+D:\Coderkechuyen\Kysu.Database\bin\Debug\netcoreapp3.1\Kysu.Database.runtimeconfig.json
+D:\Coderkechuyen\Kysu.Database\bin\Debug\netcoreapp3.1\Kysu.Database.runtimeconfig.dev.json
+D:\Coderkechuyen\Kysu.Database\bin\Debug\netcoreapp3.1\Kysu.Database.dll
+D:\Coderkechuyen\Kysu.Database\bin\Debug\netcoreapp3.1\Kysu.Database.pdb
+D:\Coderkechuyen\Kysu.Database\obj\Debug\netcoreapp3.1\Kysu.Database.csproj.AssemblyReference.cache
+D:\Coderkechuyen\Kysu.Database\obj\Debug\netcoreapp3.1\Kysu.Database.AssemblyInfoInputs.cache
+D:\Coderkechuyen\Kysu.Database\obj\Debug\netcoreapp3.1\Kysu.Database.AssemblyInfo.cs
+D:\Coderkechuyen\Kysu.Database\obj\Debug\netcoreapp3.1\Kysu.Database.csproj.CoreCompileInputs.cache
+D:\Coderkechuyen\Kysu.Database\obj\Debug\netcoreapp3.1\Kysu.Database.dll
+D:\Coderkechuyen\Kysu.Database\obj\Debug\netcoreapp3.1\Kysu.Database.pdb
+D:\Coderkechuyen\Kysu.Database\obj\Debug\netcoreapp3.1\Kysu.Database.genruntimeconfig.cache

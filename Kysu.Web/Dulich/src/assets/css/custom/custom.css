@@ -1,0 +1,57 @@
+.item {
+    box-sizing: border-box;
+}
+
+.item .header h3 {
+    line-height: 0.8;
+}
+
+.item .header a {
+    color: #000;
+    font-size: 1rem;
+}
+
+.item .content {
+    box-sizing: border-box;
+}
+
+.item .content img {
+    object-fit: scale-down;
+}
+
+.item .content .desc {
+    margin-top: 15px;
+    font-size: 0.8rem;
+}
+
+.item .action-detail {
+    padding: 10px;
+    border: 1px black solid;
+    font-size: 0.8rem;
+}
+
+
+/* Custom Sidebar */
+
+.sidebar-item {
+    position: absolute;
+    top: inherit;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.theiaStickySidebar {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    padding: 0 15px;
+}
+
+.btn-custom {
+    box-sizing: content-box;
+    padding: 10px 80px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    margin: 0px 33%;
+}

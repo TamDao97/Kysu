@@ -1,0 +1,29 @@
+
+Tài liệu tham khảo
+	https://viblo.asia/p/003-thread-va-process-gDVK2eeA5Lj
+
+1.What are Threads in Computer Processor or CPU?
+- Là các thành phần hoặc mã ảo, mà chia các Core vật lý của CPU thành nhiều Core ảo.
+- 1 Core CPU có thể có tối đa 2 thread
+
+2.Working.
+- Threads được tạo bởi 1 Process.
+- Khi mở app thì nó sẽ tạo 1 Thread xử lý các tác vụ cụ thể của app đó.
+- Giới hạn tạo ra các Thread sẽ phụ thuộc vào CPU Vật lý
+
+3.What is use of a Thread.
+- Thread là một phần quan trọng của máy tính.
+
+
+KHÁI NIỆM VỀ Process
+1.Tài liệu tham khảo.
+	https://stream-hub.com/process-la-gi/
+	https://vsudo.net/blog/process-la-gi.html
+	
+2.Tìm hiểu.
+- Process là một chương trình đang được thực thi.
+(đang chạy, đã được tải lên bộ nhớ chính để hoạt động).
+- Một chương trình bao gồm một hoặc nhiều process.
+- Một Process có thể có nhiều thread chạy bên trong.
+
+

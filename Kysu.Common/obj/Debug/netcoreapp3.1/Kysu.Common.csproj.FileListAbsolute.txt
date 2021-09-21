@@ -1,0 +1,9 @@
+D:\Coderkechuyen\Kysu.Common\bin\Debug\netcoreapp3.1\Kysu.Common.deps.json
+D:\Coderkechuyen\Kysu.Common\bin\Debug\netcoreapp3.1\Kysu.Common.dll
+D:\Coderkechuyen\Kysu.Common\bin\Debug\netcoreapp3.1\Kysu.Common.pdb
+D:\Coderkechuyen\Kysu.Common\obj\Debug\netcoreapp3.1\Kysu.Common.csproj.AssemblyReference.cache
+D:\Coderkechuyen\Kysu.Common\obj\Debug\netcoreapp3.1\Kysu.Common.AssemblyInfoInputs.cache
+D:\Coderkechuyen\Kysu.Common\obj\Debug\netcoreapp3.1\Kysu.Common.AssemblyInfo.cs
+D:\Coderkechuyen\Kysu.Common\obj\Debug\netcoreapp3.1\Kysu.Common.csproj.CoreCompileInputs.cache
+D:\Coderkechuyen\Kysu.Common\obj\Debug\netcoreapp3.1\Kysu.Common.dll
+D:\Coderkechuyen\Kysu.Common\obj\Debug\netcoreapp3.1\Kysu.Common.pdb
