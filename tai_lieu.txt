@@ -1,1 +1,2 @@
-TEST
+Sua lan 1 - commit lan 1
+Sua lan 2 - commit lan 2
