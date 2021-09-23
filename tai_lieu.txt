@@ -3,3 +3,4 @@ Sua lan 2 - commit lan 2
 Test sau merge request thứ 2  từ nhánh chức năng vào develop<commit thứ 1>
 Test sau merge request thứ 2  từ nhánh chức năng vào develop<Commit thứ 2>
 Test sau merge request thứ 3  từ nhánh chức năng vào develop<Commit thứ 3>
+Test sau merge request thứ 3  từ nhánh chức năng vào develop<Commit thứ 3>
